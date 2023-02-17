@@ -1,0 +1,1 @@
+In this challenge, the user can click in any place of the scree. For each click, a circle must be rendered where the click occurred. The application must have the funcionality to redo and undo the clicks.
